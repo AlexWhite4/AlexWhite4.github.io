@@ -1,6 +1,11 @@
 
 body {
-    background-color: rgb(221, 97, 255);
-    background-image: url("myBackground.jpg");
-    color:aliceblue
+    background-color: rgb(31, 116, 181);
+    color:rgb(209, 228, 8)
+}
+h1,h2,h3,h4,h5,h6{
+    color:rgb(197, 133, 219)
+}
+#aboutme{
+background-image: url(myBackground.jpg)
 }
